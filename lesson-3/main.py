@@ -1,0 +1,18 @@
+a = "Assalom aleykum!"
+print(len(a))
+
+word = input("text : ")
+print(word)
+print(word[0])
+print(word[2])
+print(word[-2])
+print(word[3:])
+print(word[:5])
+print(word[:-2])
+print(word[::2])
+print(word[1:100:3])
+print(word[1::2])
+print(word[::-1])
+print(word[::-2])
+print(word[-5:-2])
+print(word[-6:-1:2])
